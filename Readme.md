@@ -34,16 +34,11 @@ The model is fine-tuned using **Supervised Fine-Tuning (SFT)** with Hugging Face
 
 ---
 
-##  Project Workflow
 
-###  Synthetic Data Generation
 
-The project dynamically generates training examples using Python.
 
-Each example contains:
 - **Input:** Natural language question
 - **Output:** Structured JSON response
 
-Example:
 
-Input:
+
